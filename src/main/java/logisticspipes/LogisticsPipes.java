@@ -164,7 +164,7 @@ import logisticspipes.utils.RoutedItemHelper;
                 + "required-after:modularui2;"
                 + "required-after:gtnhmixins;"
                 + "required-after:NotEnoughItems;"
-                + "after:gregtech;"
+                //+ "after:gregtech;"
                 + "after:IC2;"
                 + "after:Forestry;"
                 + "after:Thaumcraft;"
